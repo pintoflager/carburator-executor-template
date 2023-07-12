@@ -1,0 +1,4 @@
+[dependency.sh]
+optional = false
+on_level = "Node" # Node | Cluster | Project | Client
+collection = "Executor"
